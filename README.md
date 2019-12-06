@@ -16,7 +16,7 @@ The app attributes are all in this repository. The R scripts are all reproducibl
 
 **Server.R** contains server section of the app
 
-**home.html** contains html script for this app's homepage. All attributes in home section of the app are shiny itegrated html.
+**home.html** contains html script for this app's homepage. All attributes in home section of the app are shiny integrated html.
 
 **WWW** File contains all dependencies of home.html like images and plugins
 
