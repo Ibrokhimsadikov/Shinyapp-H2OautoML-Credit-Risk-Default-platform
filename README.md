@@ -23,7 +23,7 @@ The app attributes are all in this repository. The R scripts are all reproducibl
 
 
 
-#### Link for this shiny App is [here](https://ibrokhim-sadikov.shinyapps.io/data/).
+#### Link for this shiny App is   under constant maintanance
 #### Link for our analysis is [here](https://github.com/Ibrokhimsadikov/NEW-credit-risk)
 #### Link for dataset source [here](https://www.kaggle.com/c/home-credit-default-risk/data)
 
